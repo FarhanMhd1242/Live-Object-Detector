@@ -20,10 +20,18 @@
   * mouse
   * cell phone and so on..
 
-**Scope:** We can further train this model on any custom data 
+**Applications and Scope:** We can further train this model on any custom data 
 * for example : 
   * face detection
   * Number plate detection
   * skin disease detection
   * Polyp detection in Colonoscopy images or anything which you want..
-                         
+
+**Instruction to run the code**
+* first download the yolov3.weights from the link : https://pjreddie.com/media/files/yolov3.weights  
+* open the Live-object-detector.ipynb in jupyter Notebook.
+* before running this install all the dependent libraries openCV, numpy, etc..
+* put together all the files in same folder where Live-object-detector.ipynb is stored and run the code
+  * coco.names
+  * yolov3.cfg
+  * yolov3.weights                     
