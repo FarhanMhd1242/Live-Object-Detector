@@ -34,4 +34,5 @@
 * put together all the files in same folder where Live-object-detector.ipynb is stored and run the code
   * coco.names
   * yolov3.cfg
-  * yolov3.weights                     
+  * yolov3.weights
+  * Live-object-detector.ipynb                     
